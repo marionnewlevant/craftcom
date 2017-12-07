@@ -17,5 +17,7 @@ return [
     ],
     'MnTwigPerversion' => [
         'handle' => 'twig-perversion'
-    ]
+    ],
+    'MnBreakAndContinue' => [
+        'handle' => 'twig-perversion'
 ];
